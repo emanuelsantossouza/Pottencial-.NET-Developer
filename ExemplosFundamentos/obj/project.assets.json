@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\OneDrive - Etec Centro Paula Souza\\Desktop\\Desafio da DIO\\Bootcamp - Pottencial Net Developer\\Pottencial-.NET-Developer\\Backup\\Exemplo C.csproj",
+      "projectUniqueName": "C:\\Users\\user\\OneDrive - Etec Centro Paula Souza\\Desktop\\Desafio da DIO\\Bootcamp - Pottencial Net Developer\\Pottencial-.NET-Developer\\ExemplosFundamentos\\Exemplo C.csproj",
       "projectName": "Exemplo C",
-      "projectPath": "C:\\Users\\user\\OneDrive - Etec Centro Paula Souza\\Desktop\\Desafio da DIO\\Bootcamp - Pottencial Net Developer\\Pottencial-.NET-Developer\\Backup\\Exemplo C.csproj",
+      "projectPath": "C:\\Users\\user\\OneDrive - Etec Centro Paula Souza\\Desktop\\Desafio da DIO\\Bootcamp - Pottencial Net Developer\\Pottencial-.NET-Developer\\ExemplosFundamentos\\Exemplo C.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\OneDrive - Etec Centro Paula Souza\\Desktop\\Desafio da DIO\\Bootcamp - Pottencial Net Developer\\Pottencial-.NET-Developer\\Backup\\obj\\",
+      "outputPath": "C:\\Users\\user\\OneDrive - Etec Centro Paula Souza\\Desktop\\Desafio da DIO\\Bootcamp - Pottencial Net Developer\\Pottencial-.NET-Developer\\ExemplosFundamentos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,23 +1,163 @@
 ﻿using ExemploC.Models;
 
 
-int[] arrayInteiros = new int[3];
+// LISTAS 
 
-arrayInteiros[0] = 2;
-arrayInteiros[1] = 467;
-arrayInteiros[2] = 76754;
+// List<string> listaString = new List<string>();
 
-Console.WriteLine("Com o For");
-for(int contador = 0; contador < arrayInteiros.Length; contador++){
-   Console.WriteLine($"Posição Nº {contador} - {arrayInteiros[contador]}");   
-}
+// listaString.Add("SP");
+// listaString.Add("MG");
+// listaString.Add("MS");
 
-Console.WriteLine("Com o Foreach");
- int contadorForeach = 0;
-foreach(int valor in arrayInteiros) {
-   Console.WriteLine($" Posição Nº {contadorForeach} - {valor}");
-   contadorForeach++;
-};
+// Console.WriteLine($"Item na minha lista: {listaString.Count} - Capacidade: {listaString.Capacity}");
+
+// listaString.Add("SC");
+
+// Console.WriteLine($"Item na minha lista: {listaString.Count} - Capacidade: {listaString.Capacity}");
+
+// listaString.Add("SC");
+
+// Console.WriteLine($"Item na minha lista: {listaString.Count} - Capacidade: {listaString.Capacity}");
+
+// listaString.Remove("SC");
+// listaString.Remove("MG");
+
+// Console.WriteLine($"Item na minha lista: {listaString.Count} - Capacidade: {listaString.Capacity}");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// Console.WriteLine($"Percorrendo a lista com o FOR");
+// for(int contador = 0;contador< listaString.Count; contador++)
+// {
+//    Console.WriteLine($"Posição Nº {contador} - {listaString[contador]}");
+// }
+
+// Console.WriteLine($"Percorrendo a lista com o FOREACH");
+// int contadorForeach = 0;
+
+// foreach(string item in listaString)
+// {
+//    Console.WriteLine($"Posição Nº {contadorForeach} - {item}");
+//    contadorForeach++;
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// // ARRAY COM FOR //
+// int[] arrayInteiros = new int[3];
+
+// arrayInteiros[0] = 2;
+// arrayInteiros[1] = 467;
+// arrayInteiros[2] = 76754;
+
+
+
+// int[] arrayInteirosDobrados = new int[arrayInteiros.Length * 2];
+// Array.Copy(arrayInteiros, arrayInteirosDobrados, arrayInteiros.Length)
+
+
+
+// // Array.Resize(ref arrayInteiros, arrayInteiros.Length * 2);
+
+
+// Console.WriteLine("Com o For");
+// for(int contador = 0; contador < arrayInteiros.Length; contador++){
+//    Console.WriteLine($"Posição Nº {contador} - {arrayInteiros[contador]}");   
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// // ARRAY COM FOREACH
+// Console.WriteLine("Com o Foreach");
+//  int contadorForeach = 0;
+// foreach(int valor in arrayInteiros) {
+//    Console.WriteLine($" Posição Nº {contadorForeach} - {valor}");
+//    contadorForeach++;
+// };
 
 
 
