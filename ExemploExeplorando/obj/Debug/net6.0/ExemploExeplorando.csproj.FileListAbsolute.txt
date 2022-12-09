@@ -1,0 +1,30 @@
+C:\Users\user\OneDrive - Etec Centro Paula Souza\Desktop\Desafio da DIO\Bootcamp - Pottencial Net Developer\Pottencial-.NET-Developer\ExemploExeplorando\obj\Debug\net6.0\ExemploExeplorando.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - Etec Centro Paula Souza\Desktop\Desafio da DIO\Bootcamp - Pottencial Net Developer\Pottencial-.NET-Developer\ExemploExeplorando\obj\Debug\net6.0\ExemploExeplorando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive - Etec Centro Paula Souza\Desktop\Desafio da DIO\Bootcamp - Pottencial Net Developer\Pottencial-.NET-Developer\ExemploExeplorando\obj\Debug\net6.0\ExemploExeplorando.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive - Etec Centro Paula Souza\Desktop\Desafio da DIO\Bootcamp - Pottencial Net Developer\Pottencial-.NET-Developer\ExemploExeplorando\obj\Debug\net6.0\ExemploExeplorando.AssemblyInfo.cs
+C:\Users\user\OneDrive - Etec Centro Paula Souza\Desktop\Desafio da DIO\Bootcamp - Pottencial Net Developer\Pottencial-.NET-Developer\ExemploExeplorando\obj\Debug\net6.0\ExemploExeplorando.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Etec Centro Paula Souza\Desktop\Desafio da DIO\Bootcamp - Pottencial Net Developer\Pottencial-.NET-Developer\ExemploExeplorando\bin\Debug\net6.0\ExemploExeplorando.exe
+C:\Users\user\OneDrive - Etec Centro Paula Souza\Desktop\Desafio da DIO\Bootcamp - Pottencial Net Developer\Pottencial-.NET-Developer\ExemploExeplorando\bin\Debug\net6.0\ExemploExeplorando.deps.json
+C:\Users\user\OneDrive - Etec Centro Paula Souza\Desktop\Desafio da DIO\Bootcamp - Pottencial Net Developer\Pottencial-.NET-Developer\ExemploExeplorando\bin\Debug\net6.0\ExemploExeplorando.runtimeconfig.json
+C:\Users\user\OneDrive - Etec Centro Paula Souza\Desktop\Desafio da DIO\Bootcamp - Pottencial Net Developer\Pottencial-.NET-Developer\ExemploExeplorando\bin\Debug\net6.0\ExemploExeplorando.dll
+C:\Users\user\OneDrive - Etec Centro Paula Souza\Desktop\Desafio da DIO\Bootcamp - Pottencial Net Developer\Pottencial-.NET-Developer\ExemploExeplorando\bin\Debug\net6.0\ExemploExeplorando.pdb
+C:\Users\user\OneDrive - Etec Centro Paula Souza\Desktop\Desafio da DIO\Bootcamp - Pottencial Net Developer\Pottencial-.NET-Developer\ExemploExeplorando\obj\Debug\net6.0\ExemploExeplorando.dll
+C:\Users\user\OneDrive - Etec Centro Paula Souza\Desktop\Desafio da DIO\Bootcamp - Pottencial Net Developer\Pottencial-.NET-Developer\ExemploExeplorando\obj\Debug\net6.0\refint\ExemploExeplorando.dll
+C:\Users\user\OneDrive - Etec Centro Paula Souza\Desktop\Desafio da DIO\Bootcamp - Pottencial Net Developer\Pottencial-.NET-Developer\ExemploExeplorando\obj\Debug\net6.0\ExemploExeplorando.pdb
+C:\Users\user\OneDrive - Etec Centro Paula Souza\Desktop\Desafio da DIO\Bootcamp - Pottencial Net Developer\Pottencial-.NET-Developer\ExemploExeplorando\obj\Debug\net6.0\ExemploExeplorando.genruntimeconfig.cache
+C:\Users\user\OneDrive - Etec Centro Paula Souza\Desktop\Desafio da DIO\Bootcamp - Pottencial Net Developer\Pottencial-.NET-Developer\ExemploExeplorando\obj\Debug\net6.0\ref\ExemploExeplorando.dll
+C:\Users\user\Desktop\Desafio da DIO\Bootcamp - Pottencial Net Developer\Pottencial-.NET-Developer\ExemploExeplorando\obj\Debug\net6.0\ExemploExeplorando.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Desafio da DIO\Bootcamp - Pottencial Net Developer\Pottencial-.NET-Developer\ExemploExeplorando\obj\Debug\net6.0\ExemploExeplorando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Desafio da DIO\Bootcamp - Pottencial Net Developer\Pottencial-.NET-Developer\ExemploExeplorando\obj\Debug\net6.0\ExemploExeplorando.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Desafio da DIO\Bootcamp - Pottencial Net Developer\Pottencial-.NET-Developer\ExemploExeplorando\obj\Debug\net6.0\ExemploExeplorando.AssemblyInfo.cs
+C:\Users\user\Desktop\Desafio da DIO\Bootcamp - Pottencial Net Developer\Pottencial-.NET-Developer\ExemploExeplorando\obj\Debug\net6.0\ExemploExeplorando.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Desafio da DIO\Bootcamp - Pottencial Net Developer\Pottencial-.NET-Developer\ExemploExeplorando\obj\Debug\net6.0\ExemploExeplorando.dll
+C:\Users\user\Desktop\Desafio da DIO\Bootcamp - Pottencial Net Developer\Pottencial-.NET-Developer\ExemploExeplorando\obj\Debug\net6.0\refint\ExemploExeplorando.dll
+C:\Users\user\Desktop\Desafio da DIO\Bootcamp - Pottencial Net Developer\Pottencial-.NET-Developer\ExemploExeplorando\obj\Debug\net6.0\ExemploExeplorando.pdb
+C:\Users\user\Desktop\Desafio da DIO\Bootcamp - Pottencial Net Developer\Pottencial-.NET-Developer\ExemploExeplorando\bin\Debug\net6.0\ExemploExeplorando.exe
+C:\Users\user\Desktop\Desafio da DIO\Bootcamp - Pottencial Net Developer\Pottencial-.NET-Developer\ExemploExeplorando\bin\Debug\net6.0\ExemploExeplorando.deps.json
+C:\Users\user\Desktop\Desafio da DIO\Bootcamp - Pottencial Net Developer\Pottencial-.NET-Developer\ExemploExeplorando\bin\Debug\net6.0\ExemploExeplorando.runtimeconfig.json
+C:\Users\user\Desktop\Desafio da DIO\Bootcamp - Pottencial Net Developer\Pottencial-.NET-Developer\ExemploExeplorando\bin\Debug\net6.0\ExemploExeplorando.dll
+C:\Users\user\Desktop\Desafio da DIO\Bootcamp - Pottencial Net Developer\Pottencial-.NET-Developer\ExemploExeplorando\bin\Debug\net6.0\ExemploExeplorando.pdb
+C:\Users\user\Desktop\Desafio da DIO\Bootcamp - Pottencial Net Developer\Pottencial-.NET-Developer\ExemploExeplorando\obj\Debug\net6.0\ExemploExeplorando.genruntimeconfig.cache
+C:\Users\user\Desktop\Desafio da DIO\Bootcamp - Pottencial Net Developer\Pottencial-.NET-Developer\ExemploExeplorando\obj\Debug\net6.0\ref\ExemploExeplorando.dll

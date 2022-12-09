@@ -5,6 +5,9 @@ using System.Threading.Tasks;
 
 namespace ExemploC.Models
 {
+    ///<summary>
+    //Representa uma pessoa fisica
+    ///</summary>
     public class Pessoa //PascalCase
     {
         public string ?Nome { get; set; } // Propriedade sempre maiusculo
