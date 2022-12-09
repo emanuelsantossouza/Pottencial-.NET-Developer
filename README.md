@@ -40,3 +40,9 @@
 
 #### Saída 
 ![image](https://user-images.githubusercontent.com/99850729/206782503-37de6274-dceb-451a-a9f2-6a16cdc3425b.png)
+
+## Formatando Hora
+![image](https://user-images.githubusercontent.com/99850729/206786248-9919ffbc-0cf8-4f7c-bdc4-2b63a98361f9.png)
+
+
+
