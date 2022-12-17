@@ -46,3 +46,17 @@
 
 
 
+# Exceptions ou exceções 
+## São situações excepcionais ou insperadas que ocorrem quando o programa é executado.
+
+### Como ler arquivos txt no C#? 
+### Para ler aquivos txt Primeiro:
+### crie uma pasta, depois crie um arquivo txt
+![image](https://user-images.githubusercontent.com/99850729/208253460-f0b18721-e6f0-4ac2-8fd9-d102834458c6.png)
+
+
+### Logo apos, vai até a pagina program.cs do seu projte e set o seguinte codigo
+![image](https://user-images.githubusercontent.com/99850729/208253423-61465535-e98c-4fb2-8d80-f580f2343eb0.png)
+
+### Resultado: 
+![image](https://user-images.githubusercontent.com/99850729/208253448-63b3b8d4-c5e5-4b4d-958b-038484de4660.png)
