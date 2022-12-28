@@ -34,6 +34,8 @@
 ![image](https://user-images.githubusercontent.com/99850729/206782302-a79a8567-6a7a-4366-a1c8-9ac62f5620b2.png)
 
 
+
+
 ## Personalizando a saída
 ![image](https://user-images.githubusercontent.com/99850729/206781826-e55b1892-c6d6-40b1-b41c-197e8a4d1856.png)
 #### Os # é usados para separar os valores.
@@ -60,3 +62,16 @@
 
 ### Resultado: 
 ![image](https://user-images.githubusercontent.com/99850729/208253448-63b3b8d4-c5e5-4b4d-958b-038484de4660.png)
+
+
+## Tratando exeção com Try Catch 
+### O que é o try? 
+O try só pela a tradução dele já podemos entender o que ele faz, "Try: tente."
+O try em um codigo, ele tenta executar determindados blocos de códigos e caso de uma EXCEÇÃO, o catcha é responsavel pela solução, ele apanha o codigo com erro e trata. Dessa forma o block de código não vai para na exceção, vai prosseguir e finalizar. "Catch: apanhar", 
+
+### Estrutura do try catch
+![image](https://user-images.githubusercontent.com/99850729/209876083-b1082ca3-6741-4637-9a71-0b8ffe5ff4a7.png)
+
+
+### Saida
+![image](https://user-images.githubusercontent.com/99850729/209876452-fc7ac9ef-714d-4fa7-b932-5b3f9f61aeb8.png)
