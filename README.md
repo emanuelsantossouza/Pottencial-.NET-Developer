@@ -74,4 +74,7 @@ O try em um codigo, ele tenta executar determindados blocos de códigos e caso d
 
 
 ### Saida
+#### Sem o Try Catch
+![image](https://user-images.githubusercontent.com/99850729/209877362-9f4d1f0f-9028-4611-ab10-3d8a729ea08e.png)
+#### Com o Try Catch
 ![image](https://user-images.githubusercontent.com/99850729/209876452-fc7ac9ef-714d-4fa7-b932-5b3f9f61aeb8.png)
