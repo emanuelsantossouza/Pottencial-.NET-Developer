@@ -85,8 +85,11 @@ O try em um codigo, ele tenta executar determindados blocos de códigos e caso d
 ![image](https://user-images.githubusercontent.com/99850729/209882139-be5ceb5e-24db-4693-9fdd-fd861c493fdf.png)
 
 ### Saida: 
+
 #### Erro 1
-![image](https://user-images.githubusercontent.com/99850729/209882195-d3fd8cf9-a309-479a-b220-336f3e783402.png)
+![image](https://user-images.githubusercontent.com/99850729/209882235-17b67925-9bf9-4ad8-b1e4-4f09b733d061.png)
 
 #### Erro 2
-![image](https://user-images.githubusercontent.com/99850729/209882235-17b67925-9bf9-4ad8-b1e4-4f09b733d061.png)
+![image](https://user-images.githubusercontent.com/99850729/209882195-d3fd8cf9-a309-479a-b220-336f3e783402.png)
+
+
