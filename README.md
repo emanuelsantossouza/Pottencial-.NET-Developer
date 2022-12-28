@@ -78,3 +78,15 @@ O try em um codigo, ele tenta executar determindados blocos de códigos e caso d
 ![image](https://user-images.githubusercontent.com/99850729/209877362-9f4d1f0f-9028-4611-ab10-3d8a729ea08e.png)
 #### Com o Try Catch
 ![image](https://user-images.githubusercontent.com/99850729/209876452-fc7ac9ef-714d-4fa7-b932-5b3f9f61aeb8.png)
+
+## Exceção Genéricas
+### O try pode conter varios catch e cada um pode cuidar de uma excecão
+
+![image](https://user-images.githubusercontent.com/99850729/209882139-be5ceb5e-24db-4693-9fdd-fd861c493fdf.png)
+
+### Saida: 
+#### Erro 1
+![image](https://user-images.githubusercontent.com/99850729/209882195-d3fd8cf9-a309-479a-b220-336f3e783402.png)
+
+#### Erro 2
+![image](https://user-images.githubusercontent.com/99850729/209882235-17b67925-9bf9-4ad8-b1e4-4f09b733d061.png)
