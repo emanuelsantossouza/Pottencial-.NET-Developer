@@ -107,3 +107,14 @@ Saida sem erro:
 ![image](https://user-images.githubusercontent.com/99850729/210616864-8f3066f0-89f3-481f-bcf0-838004a4c28b.png)
 
 ### Resumo, o finally é algo que sempre acontecerá, independe de errpos, ou não.
+
+
+## Throw 
+### O throw é usado para pegar erros e jogar pra cima, no caso, jogar para um try catch para ser tratado
+
+### Saida com o try catch:
+![image](https://user-images.githubusercontent.com/99850729/210621197-1280eb6e-f68e-4e71-8c56-2297d904d69d.png)
+
+
+### Saida sem o try catch:
+![image](https://user-images.githubusercontent.com/99850729/210621398-ce6b4914-d5dd-4ed0-8407-483416f07009.png)
