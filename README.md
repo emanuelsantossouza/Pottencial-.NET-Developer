@@ -93,3 +93,17 @@ O try em um codigo, ele tenta executar determindados blocos de códigos e caso d
 ![image](https://user-images.githubusercontent.com/99850729/209882195-d3fd8cf9-a309-479a-b220-336f3e783402.png)
 
 
+## Finally
+### O Finally vem logo após o try catch e podemos adicionar um novo block de código ali.
+### E o Finally sempre vai ser executado mesmo que haja erro e execulte um catch ou não.
+
+![image](https://user-images.githubusercontent.com/99850729/210616530-bfe3d048-7b31-48b3-a57a-c160a5675ceb.png)
+
+Saida com o erro:
+![image](https://user-images.githubusercontent.com/99850729/210616748-a0eaab05-3722-450f-9438-363657fe18c5.png)
+
+
+Saida sem erro:
+![image](https://user-images.githubusercontent.com/99850729/210616864-8f3066f0-89f3-481f-bcf0-838004a4c28b.png)
+
+### Resumo, o finally é algo que sempre acontecerá, independe de errpos, ou não.
