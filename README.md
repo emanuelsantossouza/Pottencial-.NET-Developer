@@ -122,11 +122,19 @@ Saida sem erro:
 
 # Coleções 
 ## Queue ou fila
-### Funciona no sistema FIFO First In, First Out. Basicamente igual uma fila normal, o primeiro que chega é o primeiro que sair e o ultimo que chegar é o ultimo que saí.
+### Funciona no sistema FIFO First In, First Out. Basicamente igual uma fila normal, o primeiro que chega é o primeiro que sair e o último que chegar é o último que saí.
 ![image](https://user-images.githubusercontent.com/99850729/210677332-d386cb24-4e79-46fa-86db-b0d52a20d58f.png)
 
 ### Saida: 
 ![image](https://user-images.githubusercontent.com/99850729/210677370-0396c330-12f9-4c9c-ae1a-bf4ffe13d250.png)
 
 ## Stack ou pila
-### Funciona igual uma pilha de coisa. Funciona no sistema LIFO, Last In, First Out. Basicamente é o contrario de uma fila, o primeiro que chega é o ultimo que saí, e o ultimo que chega é o primeiro que saí.
+### Funciona igual uma pilha de coisa. Funciona no sistema LIFO, Last In, First Out. Basicamente é o contrario de uma fila, o primeiro que chega é o último que saí, e o último que chega é o primeiro que saí.
+
+![image](https://user-images.githubusercontent.com/99850729/210678462-ac5e34bc-5521-4d68-a287-c76f69bb8538.png)
+#### A ordem da pilha é diferente da ordem para a lista ela é do top para a base, do último para o primeiro.
+
+### Saída:
+![image](https://user-images.githubusercontent.com/99850729/210678702-267529a3-6038-4c09-8b43-092909cc368d.png)
+#### Para remover usamos o pop que remove do top para a base.
+
