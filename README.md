@@ -138,3 +138,17 @@ Saida sem erro:
 ![image](https://user-images.githubusercontent.com/99850729/210678702-267529a3-6038-4c09-8b43-092909cc368d.png)
 #### Para remover usamos o pop que remove do top para a base.
 
+
+## Dictionary
+### O Dictionary é diferente das coleções acima, porque ele utiliza o sisteme de chave e valor. A chave precisa ser unica, caso o contrario o correra uma exceção.
+
+![image](https://user-images.githubusercontent.com/99850729/210680680-2d7b3677-9064-44c2-9102-131d87fb958e.png)
+
+### Saida:
+![image](https://user-images.githubusercontent.com/99850729/210680739-d2f75da8-41ea-4e6b-ab60-6b713e969ac7.png)
+
+### Para remover um elemento do Dictionary é usado a chave e a Propriedade Remove
+![image](https://user-images.githubusercontent.com/99850729/210681315-af973235-7700-4c9c-adf5-6145ae74b78d.png)
+
+### Para alteramos dados também é algo facil, precisamos apenas da chave
+![image](https://user-images.githubusercontent.com/99850729/210681951-b1ff2e76-d024-4f54-9f2a-5ec12722e53a.png)
