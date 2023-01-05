@@ -2,38 +2,99 @@
 using System.Globalization;
 
 
-Dictionary<string, string> estados = new Dictionary<string, string>();
+(int, string, string, decimal) tupla = (1, "Emanuel", "Santos Souza", 1.80M);
 
-estados.Add("SP", "São Paulo");
-estados.Add("RJ", "Rio de Janeiro");
-estados.Add("BH", "Bahia");
-estados.Add("MG", "Minas Genais");
+Console.WriteLine($"Id: {tupla.Item1}");
+Console.WriteLine($"Nome: {tupla.Item2}");
+Console.WriteLine($"Sobrenome: {tupla.Item3}");
+Console.WriteLine($"Altura: {tupla.Item4}");
 
-foreach(var sigla in estados){
-    Console.WriteLine($"Chave: {sigla.Key}, Valor: {sigla.Value}");
-}
 
-Console.WriteLine("________________________________________________________________________________________________________________________________");
-estados.Remove("MG");
-estados["SP"] = "São Paulo, Basil";
 
-foreach(var sigla in estados){
-    Console.WriteLine($"Chave: {sigla.Key}, Valor: {sigla.Value}");
-}
 
-string chave = "BH";
 
-if(estados.ContainsKey(chave)) {
-    Console.WriteLine($"Valor existente: {chave}");
-} else {
-    Console.WriteLine($"Valor não existente. é seguro adicionar a chave: {chave}");
-}
 
-try {
-    estados.Add("BH", "Bahia");
-}catch(Exception e) {
-Console.WriteLine("Chegou até aqui" + e.Message);
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// Dictionary<string, string> estados = new Dictionary<string, string>();
+
+// estados.Add("SP", "São Paulo");
+// estados.Add("RJ", "Rio de Janeiro");
+// estados.Add("BH", "Bahia");
+// estados.Add("MG", "Minas Genais");
+
+// foreach(var sigla in estados){
+//     Console.WriteLine($"Chave: {sigla.Key}, Valor: {sigla.Value}");
+// }
+
+// Console.WriteLine("________________________________________________________________________________________________________________________________");
+// estados.Remove("MG");
+// estados["SP"] = "São Paulo, Basil";
+
+// foreach(var sigla in estados){
+//     Console.WriteLine($"Chave: {sigla.Key}, Valor: {sigla.Value}");
+// }
+
+// string chave = "BH";
+
+// if(estados.ContainsKey(chave)) {
+//     Console.WriteLine($"Valor existente: {chave}");
+// } else {
+//     Console.WriteLine($"Valor não existente. é seguro adicionar a chave: {chave}");
+// }
+
+// try {
+//     estados.Add("BH", "Bahia");
+// }catch(Exception e) {
+// Console.WriteLine("Chegou até aqui" + e.Message);
+// }
 
 
 
