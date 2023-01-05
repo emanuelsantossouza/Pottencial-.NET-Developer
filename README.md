@@ -144,6 +144,7 @@ Saida sem erro:
 
 ![image](https://user-images.githubusercontent.com/99850729/210680680-2d7b3677-9064-44c2-9102-131d87fb958e.png)
 
+
 ### Saida:
 ![image](https://user-images.githubusercontent.com/99850729/210680739-d2f75da8-41ea-4e6b-ab60-6b713e969ac7.png)
 
@@ -152,3 +153,12 @@ Saida sem erro:
 
 ### Para alteramos dados também é algo facil, precisamos apenas da chave
 ![image](https://user-images.githubusercontent.com/99850729/210681951-b1ff2e76-d024-4f54-9f2a-5ec12722e53a.png)
+
+
+## Tuplas
+### 
+![image](https://user-images.githubusercontent.com/99850729/210848279-d8fbfa22-f17c-45dc-b76d-e30497bba61f.png)
+
+### Saida: 
+![image](https://user-images.githubusercontent.com/99850729/210848376-9fbef685-658a-4f67-ae36-081fd6231a43.png)
+
