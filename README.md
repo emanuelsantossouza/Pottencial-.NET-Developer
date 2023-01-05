@@ -118,3 +118,15 @@ Saida sem erro:
 
 ### Saida sem o try catch:
 ![image](https://user-images.githubusercontent.com/99850729/210621398-ce6b4914-d5dd-4ed0-8407-483416f07009.png)
+
+
+# Coleções 
+## Queue ou fila
+### Funciona no sistema FIFO First In, First Out. Basicamente igual uma fila normal, o primeiro que chega é o primeiro que sair e o ultimo que chegar é o ultimo que saí.
+![image](https://user-images.githubusercontent.com/99850729/210677332-d386cb24-4e79-46fa-86db-b0d52a20d58f.png)
+
+### Saida: 
+![image](https://user-images.githubusercontent.com/99850729/210677370-0396c330-12f9-4c9c-ae1a-bf4ffe13d250.png)
+
+## Stack ou pila
+### Funciona igual uma pilha de coisa. Funciona no sistema LIFO, Last In, First Out. Basicamente é o contrario de uma fila, o primeiro que chega é o ultimo que saí, e o ultimo que chega é o primeiro que saí.
