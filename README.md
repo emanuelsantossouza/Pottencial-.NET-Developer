@@ -118,3 +118,37 @@ Saida sem erro:
 
 ### Saida sem o try catch:
 ![image](https://user-images.githubusercontent.com/99850729/210621398-ce6b4914-d5dd-4ed0-8407-483416f07009.png)
+
+
+# Coleções 
+## Queue ou fila
+### Funciona no sistema FIFO First In, First Out. Basicamente igual uma fila normal, o primeiro que chega é o primeiro que sair e o último que chegar é o último que saí.
+![image](https://user-images.githubusercontent.com/99850729/210677332-d386cb24-4e79-46fa-86db-b0d52a20d58f.png)
+
+### Saida: 
+![image](https://user-images.githubusercontent.com/99850729/210677370-0396c330-12f9-4c9c-ae1a-bf4ffe13d250.png)
+
+## Stack ou pila
+### Funciona igual uma pilha de coisa. Funciona no sistema LIFO, Last In, First Out. Basicamente é o contrario de uma fila, o primeiro que chega é o último que saí, e o último que chega é o primeiro que saí.
+
+![image](https://user-images.githubusercontent.com/99850729/210678462-ac5e34bc-5521-4d68-a287-c76f69bb8538.png)
+#### A ordem da pilha é diferente da ordem para a lista ela é do top para a base, do último para o primeiro.
+
+### Saída:
+![image](https://user-images.githubusercontent.com/99850729/210678702-267529a3-6038-4c09-8b43-092909cc368d.png)
+#### Para remover usamos o pop que remove do top para a base.
+
+
+## Dictionary
+### O Dictionary é diferente das coleções acima, porque ele utiliza o sisteme de chave e valor. A chave precisa ser unica, caso o contrario o correra uma exceção.
+
+![image](https://user-images.githubusercontent.com/99850729/210680680-2d7b3677-9064-44c2-9102-131d87fb958e.png)
+
+### Saida:
+![image](https://user-images.githubusercontent.com/99850729/210680739-d2f75da8-41ea-4e6b-ab60-6b713e969ac7.png)
+
+### Para remover um elemento do Dictionary é usado a chave e a Propriedade Remove
+![image](https://user-images.githubusercontent.com/99850729/210681315-af973235-7700-4c9c-adf5-6145ae74b78d.png)
+
+### Para alteramos dados também é algo facil, precisamos apenas da chave
+![image](https://user-images.githubusercontent.com/99850729/210681951-b1ff2e76-d024-4f54-9f2a-5ec12722e53a.png)
