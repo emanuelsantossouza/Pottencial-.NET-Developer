@@ -156,9 +156,31 @@ Saida sem erro:
 
 
 ## Tuplas
-### 
+### é uma aglomerado de dados de estruraturas simples. Dentro de uma tuplas, podemos encontrar varios dados como strings, int e arrys etc...
 ![image](https://user-images.githubusercontent.com/99850729/210848279-d8fbfa22-f17c-45dc-b76d-e30497bba61f.png)
 
 ### Saida: 
 ![image](https://user-images.githubusercontent.com/99850729/210848376-9fbef685-658a-4f67-ae36-081fd6231a43.png)
+
+### Criando um metodo com uma tupla
+
+#### Metodo leitura de arquivos 
+![image](https://user-images.githubusercontent.com/99850729/211024987-a5f62b59-2c83-4a4c-8d63-7def3af99ffc.png)
+
+#### Program com o código pronto
+![image](https://user-images.githubusercontent.com/99850729/211025091-81b48d13-92c2-4de3-b62c-129d5fe8707e.png)
+
+#### Saída: 
+![image](https://user-images.githubusercontent.com/99850729/211025377-9509d907-4c4b-49cc-93db-1d1f6b7dfd07.png)
+
+## IF ternário
+### Construindo um leitor de números par ou ímpar
+![image](https://user-images.githubusercontent.com/99850729/211032107-82bd8896-3e2a-4f94-aeb1-2e5434794eca.png)
+#### No if ternário sempre vamo ter dois valores e usamos ? e :. O ? é usado logo após a condição e ele é o famose "Se for verdade é" Já "Se for falso" podemos usar o : e o resultado. 
+
+### Saida: 
+![image](https://user-images.githubusercontent.com/99850729/211032328-b34a86d3-1299-4d26-978c-a5d4c834b33f.png)
+
+
+
 
