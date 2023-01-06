@@ -2,12 +2,179 @@
 using System.Globalization;
 
 
-(int, string, string, decimal) tupla = (1, "Emanuel", "Santos Souza", 1.80M);
+// IF TERNÁRIO
+// int numero = 20;
+// bool ehPar = false;
 
-Console.WriteLine($"Id: {tupla.Item1}");
-Console.WriteLine($"Nome: {tupla.Item2}");
-Console.WriteLine($"Sobrenome: {tupla.Item3}");
-Console.WriteLine($"Altura: {tupla.Item4}");
+// ehPar = numero % 2 == 0;
+// Console.WriteLine($"O número {numero} é" + (ehPar ? "par": "ímpar"));
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// if(numero % 2 == 0)
+// {
+//     Console.WriteLine($"O numero é par {numero}");
+// } else{
+//     Console.WriteLine($"O numero é par {numero}");
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// Pessoa p1 = new Pessoa("Emanuel", "Santos");
+
+// (string nome, string sobrenome) = p1;
+
+// Console.WriteLine($"{nome} {sobrenome}");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// LeituraArquivo arquivo = new LeituraArquivo();
+
+// var (sucesso, linhasArquivos, quantidadeLinhas) = arquivo.LerArquivo("Arquivos/arquivoLeitura.txt");
+
+// if (sucesso)
+// {    
+//     Console.WriteLine("Quantidades de linhas do arquivo: " + quantidadeLinhas);
+//     foreach(string linha in linhasArquivos)
+//     {
+//         Console.WriteLine(linha);
+//     }
+// }
+// else
+// {
+//         Console.WriteLine("Não foi possível fazer a leitura do arquivo");
+// }
+     
+        
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// (int Id, string Nome, string Sobrenome, decimal Altura) tupla = (1, "Emanuel", "Santos Souza", 1.80M);
+
+// // ValeuTuple<int, string, decimal> outroExemplo = (1, "Emanuel", "Santos Souza", 1.80M);
+// // var outroExemploTuplaCreate = Tuple.Create(1, "Emanuel", "Santos Souza", 1.80M);
+
+
+// // Console.WriteLine($"Id: {tupla.Id}");
+// // Console.WriteLine($"Nome: {tupla.Nome}");
+// // Console.WriteLine($"Sobrenome: {tupla.Sobrenome}");
+// // Console.WriteLine($"Altura: {tupla.Altura}");
 
 
 
