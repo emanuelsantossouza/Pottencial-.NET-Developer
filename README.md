@@ -187,4 +187,16 @@ Saida sem erro:
 
 ![image](https://user-images.githubusercontent.com/99850729/211171823-d8f027b6-a6e4-4a34-8d0a-f54d5290353c.png)
 
+### Instalando o NuGet 
+#### Vai até o site e pege o comando 
+![image](https://user-images.githubusercontent.com/99850729/211172279-1953e0dc-9b34-42a8-91cc-ec07bb5c645d.png)
+
+### Agora escreva o codigo no terminal e execute o enter.
+![image](https://user-images.githubusercontent.com/99850729/211172312-7ab85928-e47c-4251-bd82-b043c101c7fe.png)
+
+
+### Para saber se o pacote foi instalado, vá até o arquivo .csproj e procure o nome do pacote instalado e a versão:
+![image](https://user-images.githubusercontent.com/99850729/211172261-126bb397-e77c-402d-ad88-7c8662666663.png)
+
+
 
