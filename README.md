@@ -182,5 +182,9 @@ Saida sem erro:
 ![image](https://user-images.githubusercontent.com/99850729/211032328-b34a86d3-1299-4d26-978c-a5d4c834b33f.png)
 
 
+## Nuget 
+### Gerenciado de pacotes do C# 
+
+![image](https://user-images.githubusercontent.com/99850729/211171823-d8f027b6-a6e4-4a34-8d0a-f54d5290353c.png)
 
 
