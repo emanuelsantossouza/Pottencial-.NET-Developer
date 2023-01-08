@@ -199,4 +199,4 @@ Saida sem erro:
 ![image](https://user-images.githubusercontent.com/99850729/211172261-126bb397-e77c-402d-ad88-7c8662666663.png)
 
 
-
+## Serialização 
