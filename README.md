@@ -214,4 +214,11 @@ Saida sem erro:
 ### Saída:
 ![image](https://user-images.githubusercontent.com/99850729/211425198-66277b04-12f2-4857-adf4-460b67b55061.png)
 
+## Como escrever um objeto no formato Json? 
+### Escreva o seguinte código com o caminho do arquivo
+
+![image](https://user-images.githubusercontent.com/99850729/211426968-bd057505-91ec-4563-ab21-81abc9083580.png)
+
+### Saída esqperada:
+![image](https://user-images.githubusercontent.com/99850729/211427047-c83c1c3b-9d9a-4e4b-a66f-d93a1f76f3c0.png)
 
