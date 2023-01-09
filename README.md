@@ -200,3 +200,18 @@ Saida sem erro:
 
 
 ## Serialização 
+### O que é serialização? 
+#### Serialização é uma forma de transição de dados entre linguagens semelhantes ou liguagens diferentes, usando o formato Json.
+
+### Como serializar um objeto?
+#### é simples logo após criar ele em uma class
+![image](https://user-images.githubusercontent.com/99850729/211425141-7ddf3437-882a-4e60-b47c-a8c806fc3b2e.png)
+<br>
+
+#### Passe as informações sobre ele e export o Newtonsoft e Utilizando a documentação passe os dados para o Newtonsoft que iria forma em tipo Json:
+![image](https://user-images.githubusercontent.com/99850729/211425168-92f24aa8-68ee-405c-b3bc-fe77b1229ab0.png)
+
+### Saída:
+![image](https://user-images.githubusercontent.com/99850729/211425198-66277b04-12f2-4857-adf4-460b67b55061.png)
+
+
