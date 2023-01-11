@@ -222,3 +222,15 @@ Saida sem erro:
 ### Saída esqperada:
 ![image](https://user-images.githubusercontent.com/99850729/211427047-c83c1c3b-9d9a-4e4b-a66f-d93a1f76f3c0.png)
 
+
+## Valores especiais no C#
+### Tipos de valor nulo (nullable)
+
+
+![image](https://user-images.githubusercontent.com/99850729/211872006-46d2ab26-42c8-4f0d-9b18-d7e8006f21a8.png)
+
+
+### Para transformar uma propriedade nulla usamos o ? na frente da propriedade.
+![image](https://user-images.githubusercontent.com/99850729/211884069-8d2992c1-3276-4c49-ab1c-e1b16244d5bd.png)
+#### Como decimal de exemplo
+
