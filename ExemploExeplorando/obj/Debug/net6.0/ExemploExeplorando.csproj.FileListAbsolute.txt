@@ -28,3 +28,5 @@ C:\Users\user\Desktop\Desafio da DIO\Bootcamp - Pottencial Net Developer\Pottenc
 C:\Users\user\Desktop\Desafio da DIO\Bootcamp - Pottencial Net Developer\Pottencial-.NET-Developer\ExemploExeplorando\bin\Debug\net6.0\ExemploExeplorando.pdb
 C:\Users\user\Desktop\Desafio da DIO\Bootcamp - Pottencial Net Developer\Pottencial-.NET-Developer\ExemploExeplorando\obj\Debug\net6.0\ExemploExeplorando.genruntimeconfig.cache
 C:\Users\user\Desktop\Desafio da DIO\Bootcamp - Pottencial Net Developer\Pottencial-.NET-Developer\ExemploExeplorando\obj\Debug\net6.0\ref\ExemploExeplorando.dll
+C:\Users\user\Desktop\Desafio da DIO\Bootcamp - Pottencial Net Developer\Pottencial-.NET-Developer\ExemploExeplorando\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Desafio da DIO\Bootcamp - Pottencial Net Developer\Pottencial-.NET-Developer\ExemploExeplorando\obj\Debug\net6.0\ExemploExeplorando.csproj.CopyComplete

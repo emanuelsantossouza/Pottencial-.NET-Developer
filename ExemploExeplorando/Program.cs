@@ -1,5 +1,180 @@
 ﻿using ExemploExeplorando.Models;
 using System.Globalization;
+using Newtonsoft.Json;
+
+
+
+// bool? desejaReceberEmail = false;
+
+// if (desejaReceberEmail.HasValue && desejaReceberEmail.Value) // OU if (desejaReceberEmail != null && desejaReceberEmail.Value)
+// {
+//     Console.WriteLine("O usuário optou por receber e-mail.");
+// }
+// else 
+// {
+//     Console.WriteLine("O usuário não respondeu ou optou por não receber e-mail.");
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+string contexto = File.ReadAllText("Arquivos/vendas.json");
+
+List<Venda1> listaVendas = JsonConvert.DeserializeObject<List<Venda1>>(contexto);
+
+foreach (Venda1 venda in listaVendas)
+{
+     Console.WriteLine($"Id: {venda.Id}, Produto: {venda.Produto}, Preço: {venda.Produto}, Data: {venda.HoradDVenda.ToString("dd/MM/yyyy HH:mm:ss")}, " +
+       $" {(venda.Desconto.HasValue ? $"Desconto de : {venda.Desconto}%" : "")}");
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// DateTime dataAtual = DateTime.Now;
+// List<Venda> listaVendas = new List<Venda>();
+                                                                    
+// Venda v1 = new Venda(1, "Materal de escritorio", 25.00M, dataAtual);
+// Venda v2 = new Venda(2, "Linça de software", 100.00M, dataAtual);
+// Venda v3 = new Venda(3, "Materal de casa", 357.00M, dataAtual);
+// Venda v4 = new Venda(4, "Books de escritorio", 100.00M, dataAtual);
+// Venda v5 = new Venda(5, "Comida de escritorio", 45.000M, dataAtual);
+
+// listaVendas.Add(v1);
+// listaVendas.Add(v2);
+// listaVendas.Add(v3);
+// listaVendas.Add(v4);
+// listaVendas.Add(v5);
+
+// string serializando = JsonConvert.SerializeObject(listaVendas, Formatting.Indented);
+
+
+// File.WriteAllText("Arquivos/vendas.json", serializando);
+// Console.WriteLine(serializando);
+
+
+
+
+
+
+
+
+
+
+
+// string serializando = JsonConvert.SerializeObject(v1, Formatting.Indented);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 // IF TERNÁRIO

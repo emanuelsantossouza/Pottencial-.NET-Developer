@@ -1,0 +1,37 @@
+[
+  {
+    "Id": 1,
+    "Nome_Produto": "Materal de escritorio",
+    "Preco": 25.00,
+    "HoradDVenda": "2023-01-10T11:36:32.9513771-03:00",
+    "Desconto": "10"
+  },
+  {
+    "Id": 2,
+    "Nome_Produto": "Linça de software",
+    "Preco": 100.00,
+    "HoradDVenda": "2023-01-10T11:36:32.9513771-03:00",
+    "Desconto": null
+  },
+  {
+    "Id": 3,
+    "Nome_Produto": "Materal de casa",
+    "Preco": 357.00,
+    "HoradDVenda": "2023-01-10T11:36:32.9513771-03:00",
+    "Desconto": "30"
+  },
+  {
+    "Id": 4,
+    "Nome_Produto": "Books de escritorio",
+    "Preco": 100.00,
+    "HoradDVenda": "2023-01-10T11:36:32.9513771-03:00",
+    "Desconto": null
+  },
+  {
+    "Id": 5,
+    "Nome_Produto": "Comida de escritorio",
+    "Preco": 45.000,
+    "HoradDVenda": "2023-01-10T11:36:32.9513771-03:00",
+    "Desconto": "90"
+  }
+]
