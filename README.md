@@ -182,5 +182,55 @@ Saida sem erro:
 ![image](https://user-images.githubusercontent.com/99850729/211032328-b34a86d3-1299-4d26-978c-a5d4c834b33f.png)
 
 
+## Nuget 
+### Gerenciado de pacotes do C# 
 
+![image](https://user-images.githubusercontent.com/99850729/211171823-d8f027b6-a6e4-4a34-8d0a-f54d5290353c.png)
+
+### Instalando o NuGet 
+#### Vai até o site e pege o comando 
+![image](https://user-images.githubusercontent.com/99850729/211172279-1953e0dc-9b34-42a8-91cc-ec07bb5c645d.png)
+
+### Agora escreva o codigo no terminal e execute o enter.
+![image](https://user-images.githubusercontent.com/99850729/211172312-7ab85928-e47c-4251-bd82-b043c101c7fe.png)
+
+
+### Para saber se o pacote foi instalado, vá até o arquivo .csproj e procure o nome do pacote instalado e a versão:
+![image](https://user-images.githubusercontent.com/99850729/211172261-126bb397-e77c-402d-ad88-7c8662666663.png)
+
+
+## Serialização 
+### O que é serialização? 
+#### Serialização é uma forma de transição de dados entre linguagens semelhantes ou liguagens diferentes, usando o formato Json.
+
+### Como serializar um objeto?
+#### é simples logo após criar ele em uma class
+![image](https://user-images.githubusercontent.com/99850729/211425141-7ddf3437-882a-4e60-b47c-a8c806fc3b2e.png)
+<br>
+
+#### Passe as informações sobre ele e export o Newtonsoft e Utilizando a documentação passe os dados para o Newtonsoft que iria forma em tipo Json:
+![image](https://user-images.githubusercontent.com/99850729/211425168-92f24aa8-68ee-405c-b3bc-fe77b1229ab0.png)
+
+### Saída:
+![image](https://user-images.githubusercontent.com/99850729/211425198-66277b04-12f2-4857-adf4-460b67b55061.png)
+
+## Como escrever um objeto no formato Json? 
+### Escreva o seguinte código com o caminho do arquivo
+
+![image](https://user-images.githubusercontent.com/99850729/211426968-bd057505-91ec-4563-ab21-81abc9083580.png)
+
+### Saída esqperada:
+![image](https://user-images.githubusercontent.com/99850729/211427047-c83c1c3b-9d9a-4e4b-a66f-d93a1f76f3c0.png)
+
+
+## Valores especiais no C#
+### Tipos de valor nulo (nullable)
+
+
+![image](https://user-images.githubusercontent.com/99850729/211872006-46d2ab26-42c8-4f0d-9b18-d7e8006f21a8.png)
+
+
+### Para transformar uma propriedade nulla usamos o ? na frente da propriedade.
+![image](https://user-images.githubusercontent.com/99850729/211884069-8d2992c1-3276-4c49-ab1c-e1b16244d5bd.png)
+#### Como decimal de exemplo
 
