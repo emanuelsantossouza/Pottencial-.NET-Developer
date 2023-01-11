@@ -239,6 +239,15 @@ Saida sem erro:
 ![image](https://user-images.githubusercontent.com/99850729/211884845-8a1caa22-125d-4c0c-994c-13d2ecc69cb7.png)
 #### é apenas o get, somente leitura 
 
-## Exemplo:
+#### Exemplo:
 ![image](https://user-images.githubusercontent.com/99850729/211886195-3c631308-73d2-402d-af65-76bdb4a554a5.png)
 
+### Variavel Dinamica
+#### Baíscamente é uma variavel que indentifica o valor pela forma como ele entra e ja set ele como string, int, bool.
+
+#### Exemplo
+![image](https://user-images.githubusercontent.com/99850729/211917282-4aa4fe15-d5f6-422a-816e-348c13451c36.png)
+
+
+### Lista generica 
+![image](https://user-images.githubusercontent.com/99850729/211917942-ad35f192-be05-4e31-bb44-f1ff6ff77202.png)
