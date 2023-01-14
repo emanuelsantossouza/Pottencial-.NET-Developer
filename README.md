@@ -251,3 +251,7 @@ Saida sem erro:
 
 ### Lista generica 
 ![image](https://user-images.githubusercontent.com/99850729/211917942-ad35f192-be05-4e31-bb44-f1ff6ff77202.png)
+
+## O comando new console cria uma estrutura so com o program.cs
+![image](https://user-images.githubusercontent.com/99850729/212480132-82dc57da-8be2-4d44-b473-e3d44bcf2954.png)
+
