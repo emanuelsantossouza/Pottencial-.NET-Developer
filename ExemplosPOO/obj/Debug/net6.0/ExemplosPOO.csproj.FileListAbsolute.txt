@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Desafio da DIO\Bootcamp - Pottencial Net Developer\Pottencial-.NET-Developer\ExemplosPOO\obj\Debug\net6.0\ExemplosPOO.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Desafio da DIO\Bootcamp - Pottencial Net Developer\Pottencial-.NET-Developer\ExemplosPOO\obj\Debug\net6.0\ExemplosPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Desafio da DIO\Bootcamp - Pottencial Net Developer\Pottencial-.NET-Developer\ExemplosPOO\obj\Debug\net6.0\ExemplosPOO.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Desafio da DIO\Bootcamp - Pottencial Net Developer\Pottencial-.NET-Developer\ExemplosPOO\obj\Debug\net6.0\ExemplosPOO.AssemblyInfo.cs
+C:\Users\user\Desktop\Desafio da DIO\Bootcamp - Pottencial Net Developer\Pottencial-.NET-Developer\ExemplosPOO\obj\Debug\net6.0\ExemplosPOO.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Desafio da DIO\Bootcamp - Pottencial Net Developer\Pottencial-.NET-Developer\ExemplosPOO\bin\Debug\net6.0\ExemplosPOO.exe
+C:\Users\user\Desktop\Desafio da DIO\Bootcamp - Pottencial Net Developer\Pottencial-.NET-Developer\ExemplosPOO\bin\Debug\net6.0\ExemplosPOO.deps.json
+C:\Users\user\Desktop\Desafio da DIO\Bootcamp - Pottencial Net Developer\Pottencial-.NET-Developer\ExemplosPOO\bin\Debug\net6.0\ExemplosPOO.runtimeconfig.json
+C:\Users\user\Desktop\Desafio da DIO\Bootcamp - Pottencial Net Developer\Pottencial-.NET-Developer\ExemplosPOO\bin\Debug\net6.0\ExemplosPOO.dll
+C:\Users\user\Desktop\Desafio da DIO\Bootcamp - Pottencial Net Developer\Pottencial-.NET-Developer\ExemplosPOO\bin\Debug\net6.0\ExemplosPOO.pdb
+C:\Users\user\Desktop\Desafio da DIO\Bootcamp - Pottencial Net Developer\Pottencial-.NET-Developer\ExemplosPOO\obj\Debug\net6.0\ExemplosPOO.dll
+C:\Users\user\Desktop\Desafio da DIO\Bootcamp - Pottencial Net Developer\Pottencial-.NET-Developer\ExemplosPOO\obj\Debug\net6.0\refint\ExemplosPOO.dll
+C:\Users\user\Desktop\Desafio da DIO\Bootcamp - Pottencial Net Developer\Pottencial-.NET-Developer\ExemplosPOO\obj\Debug\net6.0\ExemplosPOO.pdb
+C:\Users\user\Desktop\Desafio da DIO\Bootcamp - Pottencial Net Developer\Pottencial-.NET-Developer\ExemplosPOO\obj\Debug\net6.0\ExemplosPOO.genruntimeconfig.cache
+C:\Users\user\Desktop\Desafio da DIO\Bootcamp - Pottencial Net Developer\Pottencial-.NET-Developer\ExemplosPOO\obj\Debug\net6.0\ref\ExemplosPOO.dll

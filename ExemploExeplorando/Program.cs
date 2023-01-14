@@ -4,6 +4,265 @@ using Newtonsoft.Json;
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// int a = 10;
+
+// int b = a;
+
+// Console.WriteLine($"Valor de A: {a}");
+// Console.WriteLine($"Valor de B: {b}");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// Pessoa p1 = new Pessoa(nome: "Emanuel", sobrenome: "Santos");
+
+// Pessoa p2 = p1;
+// p2.Nome = "Larry";
+
+// Console.WriteLine($"NOME: {p1.NomeCompleto}");
+// Console.WriteLine($"NOME: {p2.NomeCompleto}");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// dynamic variavelDinamica = 4;
+// Console.WriteLine($"Tipo da variável: {variavelDinamica.GetType()}, Valor: {variavelDinamica}");
+
+// variavelDinamica = "Texto";
+// Console.WriteLine($"Tipo da variável: {variavelDinamica.GetType()}, Valor: {variavelDinamica}");
+
+// variavelDinamica = true;
+// Console.WriteLine($"Tipo da variável: {variavelDinamica.GetType()}, Valor: {variavelDinamica}");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// string contexto = File.ReadAllText("Arquivos/vendas.json");
+// List<Venda1> listaVendas = JsonConvert.DeserializeObject<List<Venda1>>(contexto);
+
+// var listaAnonimos = listaVendas.Select(x => new { x.Produto, x.Preco});
+
+// foreach(var venda in listaAnonimos)
+// {
+//     Console.WriteLine($"Nome do Produto: {venda.Produto}, Valor do Produto: {venda.Preco}");
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// var tipoAnonimo = new { Nome = "Emnuel", Sobrenome = "Santos Souza", Idade = 17, Altura = 1.75};
+
+// Console.WriteLine("Nome: " + tipoAnonimo.Nome);
+// Console.WriteLine("Sobrenome: " + tipoAnonimo.Sobrenome);
+// Console.WriteLine("Idade: " + tipoAnonimo.Idade);
+// Console.WriteLine("Altura: " + tipoAnonimo.Altura);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // bool? desejaReceberEmail = false;
 
 // if (desejaReceberEmail.HasValue && desejaReceberEmail.Value) // OU if (desejaReceberEmail != null && desejaReceberEmail.Value)
@@ -46,15 +305,15 @@ using Newtonsoft.Json;
 
 
 
-string contexto = File.ReadAllText("Arquivos/vendas.json");
+// string contexto = File.ReadAllText("Arquivos/vendas.json");
 
-List<Venda1> listaVendas = JsonConvert.DeserializeObject<List<Venda1>>(contexto);
+// List<Venda1> listaVendas = JsonConvert.DeserializeObject<List<Venda1>>(contexto);
 
-foreach (Venda1 venda in listaVendas)
-{
-     Console.WriteLine($"Id: {venda.Id}, Produto: {venda.Produto}, Preço: {venda.Produto}, Data: {venda.HoradDVenda.ToString("dd/MM/yyyy HH:mm:ss")}, " +
-       $" {(venda.Desconto.HasValue ? $"Desconto de : {venda.Desconto}%" : "")}");
-}
+// foreach (Venda1 venda in listaVendas)
+// {
+//      Console.WriteLine($"Id: {venda.Id}, Produto: {venda.Produto}, Preço: {venda.Produto}, Data: {venda.HoradDVenda.ToString("dd/MM/yyyy HH:mm:ss")}, " +
+//        $" {(venda.Desconto.HasValue ? $"Desconto de : {venda.Desconto}%" : "")}");
+// }
 
 
 
