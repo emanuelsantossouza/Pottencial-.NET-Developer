@@ -1,11 +1,60 @@
 ﻿using ExemplosPOO.Models;
 
+Aluno a1 = new Aluno();
+a1.Nome = "Emanuel";
+a1.Idade = 17;
+a1.Nota = 7.5;
+a1.Apresentar();
 
-ContaCorrente c1= new ContaCorrente(123, 100);
+Professor p1 = new Professor();
+p1.Nome = "João Paulo";
+p1.Idade = 35;
+p1.Salario = 1300.00M;
+p1.Apresentar();
 
-c1.MostraSaldo();
-c1.Sacar(5001);
-c1.MostraSaldo();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// ContaCorrente c1= new ContaCorrente(123, 100);
+
+// c1.MostraSaldo();
+// c1.Sacar(5001);
+// c1.MostraSaldo();
 
 
 
