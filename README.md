@@ -255,10 +255,50 @@ Saida sem erro:
 ## O comando new console cria uma estrutura so com o program.cs
 ![image](https://user-images.githubusercontent.com/99850729/212480132-82dc57da-8be2-4d44-b473-e3d44bcf2954.png)
 
-## POO
-### Herança:
+## Orientação a Objeto ou POO:
+### Abstração.
+#### O que é abstração?
+##### Abstração é uma forma de abstair as objetos da vida real, do plano terro para o mundo da programação, dependo do caso apenas colocaremos as informações mas imporante e que se encaixe em seu contexto.
+![image](https://user-images.githubusercontent.com/99850729/212538654-031e4d7a-a6d2-4638-a6b1-def9b4883d6d.png)
+
+
+### Encapsulamento.
+#### O que é encapsulamento na POO:
+##### O encapsulamento serve para proteger uma classe e definir limites para outras classe de suas como podem utilizar as suas propriedades.
+
+
+
+
+
+
+### Herança.
+#### O que é a Herença na POO: 
+##### A Herença é a forma mais limpa que podemos usar para reaproveitar o nosso código e não ficamos repetindo códigos desnecessários.
+![image](https://user-images.githubusercontent.com/99850729/212538212-da9d33f6-43e8-43ba-af3c-c73d3e153f6e.png)
+
+
 #### Como fazer para uma classe hedar a outra? 
 ![image](https://user-images.githubusercontent.com/99850729/212536158-3dfe3d8c-bca6-4472-9717-2e82806d6f04.png)
 ##### é algo simples, apenas coloque : na frente do nome da classe e coloque o no me da classe que deseja hedar
+
+
+### Polimorfismo 
+#### O que é polimorfismo?
+##### O polimorfismo vem do grego e quer dizer em tradução livre varias formas, Mas o polimorfismo na pratica, sobrescrever métodos das classes filhas para se comportamento de maneira diferente e ter a sua propria implementação.
+
+
+Para podemos permetir a classe filha modificar a classe usando o polimorfismo, precisamos declara virutal na classe pai que sera alterada pela filha.
+![image](https://user-images.githubusercontent.com/99850729/212539654-2fa4fdad-0430-47ea-8652-020579903c21.png)
+
+
+Na classe filha  precisamos declara override na classe filha que vai modificar e precisa ter o mesmo nome, mas pode modificar as informações.
+![image](https://user-images.githubusercontent.com/99850729/212539726-7aa7947f-00b7-4ae3-83dd-379de48c487c.png)
+
+
+
+![image](https://user-images.githubusercontent.com/99850729/212540415-ab6c1efa-9340-42e3-b894-78f940992544.png)
+
+
+![image](https://user-images.githubusercontent.com/99850729/212540425-0ebfc441-24ae-4ad5-8fe6-814e304ebabe.png)
 
 
