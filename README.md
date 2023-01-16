@@ -322,5 +322,17 @@ Na classe filha  precisamos declara override na classe filha que vai modificar e
 ##### SAÍDA
 ![image](https://user-images.githubusercontent.com/99850729/212698005-ae1805f8-d0fb-48c5-98b5-655575cc7536.png)
 
+### Classe selada 
+#### A classe selada é usada quando não queremos mais uma classe seja herdar por outra. Dessa forma as classe selada não pode ser classes pai de outras classes.
+
+#### Como torna uma classe normal em classe selada. Apenas coloque a propriedade sealed na frente do nome da classe.
+![image](https://user-images.githubusercontent.com/99850729/212721384-24f885be-1aa5-4700-97c8-96be51b60542.png)
+
+### A classe diretor herdando a classe diretor.
+![image](https://user-images.githubusercontent.com/99850729/212721422-11933162-3557-46ce-8143-aba7dc5f57b2.png)
+
+#### Saída: Como o erro pela classe professor ser selada e a classe diretor não pode herdar ela.
+![image](https://user-images.githubusercontent.com/99850729/212721471-3f376a48-69fa-4536-bdd0-0ac7bbaff243.png)
+
 
 
