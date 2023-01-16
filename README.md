@@ -302,3 +302,12 @@ Na classe filha  precisamos declara override na classe filha que vai modificar e
 ![image](https://user-images.githubusercontent.com/99850729/212540425-0ebfc441-24ae-4ad5-8fe6-814e304ebabe.png)
 
 
+### Classe Abstrata
+#### é uma classe onde apenas podemos sobrescrever métodos para as classe filhas fazerem um polimorfismo e a classe abstrata não pode ser instanciada.
+
+![image](https://user-images.githubusercontent.com/99850729/212681259-dc2a78f3-9052-4705-9bc9-6ad9ad4b1726.png)
+
+
+#### como utilizar a classe abstrata na pratica?
+![image](https://user-images.githubusercontent.com/99850729/212681809-4e5a54de-a29c-44a2-9c04-5d02e4093b7a.png)
+##### Primeiro você posiciona a palavra abstrata na frente do nome da classe
