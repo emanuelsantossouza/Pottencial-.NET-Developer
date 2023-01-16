@@ -335,4 +335,6 @@ Na classe filha  precisamos declara override na classe filha que vai modificar e
 ![image](https://user-images.githubusercontent.com/99850729/212721471-3f376a48-69fa-4536-bdd0-0ac7bbaff243.png)
 
 
+### Classe Object a mãe de todas as classe do .Net
 
+## Interfaces 
