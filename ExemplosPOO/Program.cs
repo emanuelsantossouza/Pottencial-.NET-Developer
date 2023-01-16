@@ -12,7 +12,9 @@ p1.Idade = 35;
 p1.Salario = 1300.00M;
 p1.Apresentar();
 
-
+Corrente c1 = new Corrente();
+c1.Creditar(500);
+c1.ExibirSaldo();
 
 
 
