@@ -277,9 +277,9 @@ Saida sem erro:
 ![image](https://user-images.githubusercontent.com/99850729/212538212-da9d33f6-43e8-43ba-af3c-c73d3e153f6e.png)
 
 
-#### Como fazer para uma classe hedar a outra? 
+#### Como fazer para uma classe herdar a outra? 
 ![image](https://user-images.githubusercontent.com/99850729/212536158-3dfe3d8c-bca6-4472-9717-2e82806d6f04.png)
-##### é algo simples, apenas coloque : na frente do nome da classe e coloque o no me da classe que deseja hedar
+##### é algo simples, apenas coloque : na frente do nome da classe e coloque o nome da classe que deseja herdar
 
 
 ### Polimorfismo 
@@ -287,7 +287,7 @@ Saida sem erro:
 ##### O polimorfismo vem do grego e quer dizer em tradução livre varias formas, Mas o polimorfismo na pratica, sobrescrever métodos das classes filhas para se comportamento de maneira diferente e ter a sua propria implementação.
 
 
-Para podemos permetir a classe filha modificar a classe usando o polimorfismo, precisamos declara virutal na classe pai que sera alterada pela filha.
+Para podemos permetir a classe filha modificar a classe usando o polimorfismo, precisamos declara virutal na classe pai que sera alterada pela filha.<br>
 ![image](https://user-images.githubusercontent.com/99850729/212539654-2fa4fdad-0430-47ea-8652-020579903c21.png)
 
 
@@ -310,4 +310,17 @@ Na classe filha  precisamos declara override na classe filha que vai modificar e
 
 #### como utilizar a classe abstrata na pratica?
 ![image](https://user-images.githubusercontent.com/99850729/212681809-4e5a54de-a29c-44a2-9c04-5d02e4093b7a.png)
-##### Primeiro você posiciona a palavra abstrata na frente do nome da classe
+###### Primeiro você posiciona a palavra abstrata na frente do nome da classe
+
+#### Crie um metodo abstrato.
+![image](https://user-images.githubusercontent.com/99850729/212697072-f7e2dfe9-b877-4a28-9f31-f535d05d11c2.png)
+
+#### Logo após crie a classe filha que vai herdar esse metodo abstrato.
+![image](https://user-images.githubusercontent.com/99850729/212697273-f5a9c0bd-ac23-445e-84e7-cf1384b8be70.png)
+##### a abstração é praticamente igual ao polimorfismo, a unica diferença que o metodo que é abstrato, ele é obrigatoriamente forçado a classe filha passar algum tipo de valor para ele.
+
+##### SAÍDA
+![image](https://user-images.githubusercontent.com/99850729/212698005-ae1805f8-d0fb-48c5-98b5-655575cc7536.png)
+
+
+
