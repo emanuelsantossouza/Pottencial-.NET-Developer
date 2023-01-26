@@ -23,3 +23,8 @@
 
 ### Caso ocorreu tudo com sucesso, os pacotes vão estar aqui.
 ![image](https://user-images.githubusercontent.com/99850729/214851929-3e17c5df-cde2-475a-825d-a13fb78e488c.png)
+
+
+# Criando um CRUD
+## Criando a classe para criar a entidade com a migração
+![image](https://user-images.githubusercontent.com/99850729/214956429-403aa6b5-3831-4648-ba2c-d9f9b4be4bfa.png)
