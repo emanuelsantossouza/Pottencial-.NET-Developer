@@ -28,3 +28,17 @@
 # Criando um CRUD
 ## Criando a classe para criar a entidade com a migração
 ![image](https://user-images.githubusercontent.com/99850729/214956429-403aa6b5-3831-4648-ba2c-d9f9b4be4bfa.png)
+
+## Conectando o banco SQL Server com a API
+
+
+
+## Desenvolvendo um contexto para receber a herança do DbContext que é uma classe do Entety Framework para realizar a migração e constituir o DbSet que vai gerar a entendade Contatos
+![image](https://user-images.githubusercontent.com/99850729/214956654-245d57d2-1624-49ec-ac8b-fd63ba288c92.png)
+
+## Local a onde vamos desenvolver a ConnectionString
+![image](https://user-images.githubusercontent.com/99850729/214957120-fe295c6b-c72c-40e0-8e28-a2d3e6c5f8dc.png)
+
+### No appsettings.Developmente.json, vamos fazer a CONNECTIONSTRING que resumidade é a conexão do SQL Server com o nosso programa em alguma porta no caso a do localshost
+![image](https://user-images.githubusercontent.com/99850729/214957389-fd487e8c-4c14-4bfa-85e2-79aca62a7711.png)
+
