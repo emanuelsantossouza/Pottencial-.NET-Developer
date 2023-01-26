@@ -42,3 +42,25 @@
 ### No appsettings.Developmente.json, vamos fazer a CONNECTIONSTRING que resumidade é a conexão do SQL Server com o nosso programa em alguma porta no caso a do localshost
 ![image](https://user-images.githubusercontent.com/99850729/214957389-fd487e8c-4c14-4bfa-85e2-79aca62a7711.png)
 
+### Utilizando a migration vamos criar a entidade contatos com o seguinte comando no terminal:
+![image](https://user-images.githubusercontent.com/99850729/214962576-50d7d392-ae4d-43f6-8373-e5f67b85c8bf.png)
+
+
+
+![image](https://user-images.githubusercontent.com/99850729/214962685-3be7216b-8ccd-438c-8c99-6744a898014f.png)
+
+
+
+![image](https://user-images.githubusercontent.com/99850729/214962714-3c636dfc-4f9a-45b9-948a-452d10662b06.png)
+
+
+
+![image](https://user-images.githubusercontent.com/99850729/214962757-9464b402-df2e-43b3-80b7-fb5af219fc1b.png)
+
+
+### Agora vamos subir a nossa tabela para o banco de dados:
+![image](https://user-images.githubusercontent.com/99850729/214963063-b1f4b8e1-46d2-4a42-bd7d-4ebab4dc6421.png)![image](https://user-images.githubusercontent.com/99850729/214963064-a4af2d02-917c-4158-8e6c-6bc749223aeb.png)
+
+
+### Pronto foi realizada uma migração, agora temos um banco de dados criado sem termos digitado uma linha de codigo no SQL Server
+
