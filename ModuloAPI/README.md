@@ -64,3 +64,22 @@
 
 ### Pronto foi realizada uma migração, agora temos um banco de dados criado sem termos digitado uma linha de codigo no SQL Server
 
+## Como fazr uma classe se comportar como uma API
+### Coloque os seguintes elementos
+![image](https://user-images.githubusercontent.com/99850729/215357338-4e45043b-88d0-414a-b813-30260e23b09f.png)
+![image](https://user-images.githubusercontent.com/99850729/215358799-0e3023f4-99a8-4562-93d7-5bd6bcf5330b.png)
+#### Primeiro instaciamos a nossa conexão com o banco "No nosso caso a AgendaContaxto"
+#### Depos instanciamos o context 
+#### logos pronto, criamos os metodos http, criamos um metodo recendo objeto desejado para adicionar e instanciomos ele
+#### depois adicionamos, salvamos e retornamos, esta pronto.
+
+## Como criar um metodo para adicionar uma informação na API
+
+#### 
+
+## Como criar um metodos para mostrar os itens da API
+![image](https://user-images.githubusercontent.com/99850729/215358970-bcc79e7b-d5f3-43dd-ae5a-83391cd20dcf.png)
+#### Primeiro Criamos o HttpGet e colocamos que é obrigatorio o {ID}.
+#### Depois criamos o metodo com o ID para ser recebido.
+#### depois criamos um var para buscar o id dentro do banco de dados.
+#### Criamos uma forma de validar o ID caso ele não seja valido e returnamos o id valido
